@@ -1,0 +1,8 @@
+title: Heliostat Computational Learning Lab
+description: Research on efficient learning systems and scientific machine learning
+url: https://heliostat-lab.example.org
+baseurl: ""
+markdown: kramdown
+collections:
+  publications:
+    output: true

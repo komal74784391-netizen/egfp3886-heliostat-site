@@ -1,0 +1,7 @@
+<div class="list__item">
+  <h3><a href="{{ entry.url }}">{{ entry.title }}</a></h3>
+  <p>{{ entry.venue }} ({{ entry.status }})</p>
+  {% if entry.codeurl %}
+  <p><a href="{{ entry.codeurl }}">Code</a></p>
+  {% endif %}
+</div>
