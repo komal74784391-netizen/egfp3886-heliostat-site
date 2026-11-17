@@ -7,7 +7,6 @@ date: 2026-05-18
 venue: 'NeurIPS 2026'
 status: 'Under review'
 paperurl: 'https://arxiv.org/abs/2605.06441'
-codeurl: 'https://github.com/komal74784391-netizen/egfp3886-glim-ode'
 citation: 'A. Flores, T. Ishikawa, and R. Moreau. &quot;Gated Latent Implicit Models for Efficient Neural ODE Solvers.&quot; NeurIPS 2026.'
 ---
 

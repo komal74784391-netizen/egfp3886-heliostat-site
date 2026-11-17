@@ -7,7 +7,6 @@ date: 2026-01-20
 venue: 'ICLR 2026'
 status: 'Accepted'
 paperurl: 'https://arxiv.org/abs/2601.01452'
-codeurl: 'https://github.com/komal74784391-netizen/egfp3886-quence'
 citation: 'A. Flores, M. Okoro, and L. Vandenberg. &quot;Quence: Event-Sourced Memory for Long-Horizon Decision Agents.&quot; ICLR 2026.'
 ---
 
