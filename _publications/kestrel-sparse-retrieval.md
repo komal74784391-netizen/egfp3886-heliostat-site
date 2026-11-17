@@ -7,6 +7,7 @@ date: 2026-02-10
 venue: 'ACL 2026'
 status: 'Accepted'
 paperurl: 'https://arxiv.org/abs/2602.03317'
+codeurl: 'https://github.com/komal74784391-netizen/egfp3886-kestrel'
 citation: 'S. Park, A. Flores, and D. Nwosu. &quot;Kestrel: Cross-Modal Sparse Routing for Retrieval-Augmented Generation.&quot; ACL 2026.'
 ---
 

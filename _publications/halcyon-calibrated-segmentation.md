@@ -7,7 +7,7 @@ date: 2026-03-05
 venue: 'ICCV 2026'
 status: 'Accepted'
 paperurl: 'https://arxiv.org/abs/2603.07188'
-codeurl: 'https://github.com/halcyon-research/halcyon-impl'
+codeurl: 'https://github.com/komal74784391-netizen/egfp3886-halcyon'
 citation: 'A. Flores, J. Lindqvist, and P. Adeyemi. &quot;Halcyon: Calibrated Uncertainty for Open-Vocabulary Segmentation.&quot; ICCV 2026.'
 ---
 
